@@ -10,7 +10,7 @@ So that I can organize and plan my business.
 
 # Description
 
-
+A node application built with javascript while also utilizing inquirer and MySQL. This application allows employers to manage and track their employees, in addition to adding and deleting employees, roles, titles, salaries, etc.
 
 # Considerations
 

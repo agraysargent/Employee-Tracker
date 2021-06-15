@@ -36,4 +36,8 @@ Angelica Sargent
 
 # Gif
 
+![Gif](assets/gif.gif)
+
 # Video
+
+[Check out this link to see the application in action!](https://drive.google.com/file/d/1mfZJZJrKjuw61RVbhcPFN_iiY_Jf09-u/view)

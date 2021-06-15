@@ -17,6 +17,8 @@ connection.connect(function (err) {
   options();
 });
 
+// list of user choices, in addition to questions/options for the user to work through, i.e. departments, roles, adding/removing employees, etc.
+
 function options() {
   inquirer
     .prompt({
